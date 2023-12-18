@@ -1,0 +1,4 @@
+bottle==0.12.19
+docx==0.8.11
+docx2pdf==0.1.7
+requests==2.26.0
